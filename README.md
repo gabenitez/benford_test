@@ -6,7 +6,7 @@ Kick and dirty way of plotting Benford's distribution of cripto assests values f
 npm install
 ```
 
-#Add api keys of binance in .env
+# Add api keys of binance in .env
 ```
 API_KEY=[api key from binance]
 API_SECRET=[api secret from binance]
