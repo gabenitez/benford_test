@@ -1,5 +1,5 @@
 # Benford_test
-Kick and dirty way of plotting Berford's distribution of cripto assests values in binance
+Kick and dirty way of plotting Benford's distribution of cripto assests values from binance market
 
 # Installing
 ```
