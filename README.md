@@ -1,7 +1,7 @@
-# benford_test
+# Benford_test
 Kick and dirty way of plotting Berford's distribution of cripto assests values in binance
 
-#Installing
+# Installing
 ```
 npm install
 ```
@@ -12,14 +12,14 @@ API_KEY=[api key from binance]
 API_SECRET=[api secret from binance]
 ```
 
-#Run
-##Command
+# Run
+## Command
 
 ```
 node benford_binance.js PAIR REFRESH
 ```
 
-##Example
+## Example
 ```
 node benford_binance.js BTCUSD 100
 ```
